@@ -1,0 +1,11 @@
+.title-ppal {
+    color: aqua;
+}
+
+.container {
+    display: flex;
+}
+
+#action {
+    display: none;
+}
