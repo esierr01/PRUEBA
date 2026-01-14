@@ -9,3 +9,11 @@
 #action {
     display: none;
 }
+
+.titulo-secundario {
+    color: green;
+}
+
+.texto-general {
+    color: purple;
+}
